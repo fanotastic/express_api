@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Meja",
+            "harga": 200000,
+            "qty": 5
+        },
+        {
+            "id": 2,
+            "name": "Kursi",
+            "harga": 50000,
+            "qty": 3
+        },
+        {
+            "id": 3,
+            "name": "Lemari",
+            "harga": 200000,
+            "qty": 20
+        },
+        {
+            "id": 4,
+            "name": "Buffet",
+            "harga": 500000,
+            "qty": 23
+        }
+    ],
+    "users": [
+        {
+            "id": 2,
+            "username": "utomo",
+            "password": "1234",
+            "email": "utomo@mail.com",
+            "role": "user"
+        },
+        {
+            "id": 3,
+            "username": "budi",
+            "password": "3232",
+            "email": "putro@mail.com",
+            "role": "user"
+        },
+        {
+            "username": "test",
+            "password": "232",
+            "email": "ganyu@mail.com",
+            "role": "user",
+            "id": 4
+        },
+        {
+            "username": "putro",
+            "password": "3232",
+            "email": "asd@mail.com",
+            "role": "user",
+            "id": 6
+        }
+    ],
+    "cart": []
+}
